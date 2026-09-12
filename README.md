@@ -1,12 +1,16 @@
 # 🌿 Mossland AI Research
 
+<!-- opendevs-badges:start -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-64748b?style=flat)](LICENSE)
+<!-- opendevs-badges:end -->
+
 > Research at the intersection of **AI and Web3** — decentralized governance, autonomous agents, sustainable infrastructure, and the token economy of the Mossland ecosystem.
 
-![Research Areas](https://img.shields.io/badge/Research_Areas-21+-6E56CF)
-![Docs](https://img.shields.io/badge/Docs-KR_%7C_EN-2B7A78)
-![Focus](https://img.shields.io/badge/Focus-AI_%C3%97_Web3-0A7BBD)
-![Updated](https://img.shields.io/badge/Updated-2026-4C9F70)
-![Contact](https://img.shields.io/badge/Contact-lab%40moss.land-informational)
+![Research Areas](https://img.shields.io/badge/Research_Areas-21+-6E56CF?style=flat)
+![Docs](https://img.shields.io/badge/Docs-KR_%7C_EN-2B7A78?style=flat)
+![Focus](https://img.shields.io/badge/Focus-AI_%C3%97_Web3-0A7BBD?style=flat)
+![Updated](https://img.shields.io/badge/Updated-2026-4C9F70?style=flat)
+![Contact](https://img.shields.io/badge/Contact-lab%40moss.land-informational?style=flat)
 
 Welcome to the **Mossland AI Research** repository. As of mid-2026, our work spans six pillars — from AI tooling for DAO governance and autonomous on-chain agents, to sustainable/green AI, digital twins, stablecoins, character AI, and blockchain network infrastructure. Each study is grounded in the **Mossland ecosystem** (MOC / Mosscoin utility, DAO governance, and the metaverse) and most are published in both **Korean and English**.
 
